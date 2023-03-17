@@ -1,3 +1,2 @@
 # PygameForBeginners
-A simple 2D python game designed to teach you the pygame module.
-#
+This is simple space ship 2D game made using pygame , sound effects and graphics.
