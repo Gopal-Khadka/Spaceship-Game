@@ -1,2 +1,3 @@
-# Spaceship-Game
-This is simple space ship game made using pygame , sound effects an graphics.
+# PygameForBeginners
+A simple 2D python game designed to teach you the pygame module.
+#
